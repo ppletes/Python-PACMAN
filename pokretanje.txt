@@ -1,0 +1,8 @@
+Pac-Man igra sa kretanjem agenta uz tipke:
+python3 pacman.py -v t -jid agent@rec.foi.hr -pwd tajna"
+
+Pac-Man igra sa samostalnim kretanjem agenta:
+python3 pacman.py -v s -jid agent@rec.foi.hr -pwd tajna"
+
+Prvo se odigra igra sa tipkama, nakon toga se pokrene samostalna vrsta igre.
+Na kraju se pogleda rezultat svakoga u datoteci Rezultat.txt.
